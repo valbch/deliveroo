@@ -11,7 +11,7 @@ const deliUrl = "https://deliveroo-api.now.sh/menu";
 
 class App extends React.Component {
   state = {
-    data: null, //
+    data: null, // le state data
     loading: true
   };
 
